@@ -1,0 +1,9 @@
+name: scheme-size-lite,
+displayName: Scheme Size Lite,
+subtitle: Contains only enlarged schemas,
+description: Increase schematic max size,
+author: "[#0096FF]xzxADIxzx[] but edit by Gureumi",
+minGameVersion: 144,
+version: 1.1,
+hidden: true,
+main: scheme.Main
